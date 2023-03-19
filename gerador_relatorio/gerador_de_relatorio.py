@@ -64,7 +64,7 @@ footer_temp = """
 
 
 def main():
-    """Uma aplicação EDA simples com componentes Streamlit."""
+    """Gerador de Relat"""
 
     menu = ["Home", "Pandas Profile", "Sweetviz", "Sobre"]
     choice = st.sidebar.selectbox("Menu", menu)
