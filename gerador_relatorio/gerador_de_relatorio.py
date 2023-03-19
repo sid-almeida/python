@@ -88,7 +88,7 @@ def main():
                 # Normal Workflow
                 report = sv.analyze(df)
                 report.show_html()
-                st_display_sweetviz("RELATÓRIO_SWEETVIZ.html")
+                st_display_sweetviz("SWEETVIZ_REPORT.html")
 
 
 
